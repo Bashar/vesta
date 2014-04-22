@@ -4,7 +4,7 @@
  * Bashar Al-Abdulhadi (translations@bashar.com)
  */
 
-$LANG['en'] = array(
+$LANG['ar'] = array(
     'Packages'  => 'الحزم',
     'IP'  => 'رقم الملقم',
     'Graphs'  => 'الرسومات',
